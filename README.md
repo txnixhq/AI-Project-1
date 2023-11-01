@@ -6,7 +6,7 @@ This project simulates the operation of multiple firefighter robots (bots) withi
 
 Features:
 
-Four different bots with distinct navigation strategies.
+Four different bots with distinct navigation strategies.  
 Dynamic fire propagation based on flammability.
 Adaptive heuristics for path planning.
 Randomly generated ship layout for each run.
